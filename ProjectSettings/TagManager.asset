@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Diamante
+  - Plataforma
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Suelo
+  - Water
+  - UI
+  - ZonaMuerte
+  - Jugador
+  - Enemigo
+  - Balas
+  - Diamante
+  - Confinamiento
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fondo
+    uniqueID: 3466669801
+    locked: 0
+  - name: Ciudad
+    uniqueID: 281421329
+    locked: 0
+  - name: Fuego
+    uniqueID: 1795474895
+    locked: 0
+  - name: Picos
+    uniqueID: 290604839
+    locked: 0
+  - name: Diamantes
+    uniqueID: 4158316281
+    locked: 0
+  - name: Corazones
+    uniqueID: 2504455153
+    locked: 0
+  - name: Jugador
+    uniqueID: 3630594075
+    locked: 0
+  - name: Llave
+    uniqueID: 193433793
+    locked: 0
+  - name: Zombie
+    uniqueID: 3800714131
+    locked: 0
